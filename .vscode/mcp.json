@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  }
+}
+// This file is used by the GitHub Copilot extension to configure the connection to the GitHub Copilot service. It specifies the server URL for the GitHub Copilot API.
